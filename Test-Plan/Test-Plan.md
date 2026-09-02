@@ -7,7 +7,7 @@ OpenCart Manual Testing Project
 OpenCart
 
 ## 3. Application URL
-https://www.opencart.com/
+https://demo.opencart.com/
 
 ## 4. Objective
 The objective of this project is to perform manual testing of the OpenCart application and verify that its major functionalities work as expected.
